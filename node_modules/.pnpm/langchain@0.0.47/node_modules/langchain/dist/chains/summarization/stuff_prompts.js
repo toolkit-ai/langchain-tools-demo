@@ -1,0 +1,15 @@
+/* eslint-disable tree-shaking/no-side-effects-in-initialization */
+/* eslint-disable spaced-comment */
+import { PromptTemplate } from "../../prompts/index.js";
+const template = `Write a concise summary of the following:
+
+
+"{text}"
+
+
+CONCISE SUMMARY:`;
+export const DEFAULT_PROMPT = /*#__PURE__*/ new PromptTemplate({
+    template,
+    inputVariables: ["text"],
+});
+//# sourceMappingURL=stuff_prompts.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"stuff_prompts.js","sourceRoot":"","sources":["../../../src/chains/summarization/stuff_prompts.ts"],"names":[],"mappings":"AAAA,mEAAmE;AACnE,mCAAmC;AACnC,OAAO,EAAE,cAAc,EAAE,MAAM,wBAAwB,CAAC;AAExD,MAAM,QAAQ,GAAG;;;;;;iBAMA,CAAC;AAElB,MAAM,CAAC,MAAM,cAAc,GAAG,aAAa,CAAC,IAAI,cAAc,CAAC;IAC7D,QAAQ;IACR,cAAc,EAAE,CAAC,MAAM,CAAC;CACzB,CAAC,CAAC"}

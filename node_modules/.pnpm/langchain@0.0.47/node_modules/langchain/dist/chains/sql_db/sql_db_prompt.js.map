@@ -1,0 +1,1 @@
+{"version":3,"file":"sql_db_prompt.js","sourceRoot":"","sources":["../../../src/chains/sql_db/sql_db_prompt.ts"],"names":[],"mappings":"AAAA,mEAAmE;AACnE,mCAAmC;AACnC,OAAO,EAAE,cAAc,EAAE,MAAM,wBAAwB,CAAC;AAExD,MAAM,CAAC,MAAM,2BAA2B,GAAG,aAAa,CAAC,IAAI,cAAc,CAAC;IAC1E,QAAQ,EAAE;;;;;;;;;;;;;;;;;kBAiBM;IAChB,cAAc,EAAE,CAAC,SAAS,EAAE,YAAY,EAAE,OAAO,EAAE,OAAO,CAAC;CAC5D,CAAC,CAAC"}
